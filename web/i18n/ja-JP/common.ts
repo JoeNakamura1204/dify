@@ -451,14 +451,14 @@ const translation = {
     existed: 'プロンプトにすでに存在します',
   },
   imageUploader: {
-    uploadFromComputer: 'コンピューターからアップロード',
+    uploadFromComputer: 'コンピューターからアップロード4',
     uploadFromComputerReadError: '画像の読み込みに失敗しました。もう一度お試しください。',
     uploadFromComputerUploadError: '画像のアップロードに失敗しました。もう一度アップロードしてください。',
     uploadFromComputerLimit: 'アップロード画像のサイズは {{size}} MB を超えることはできません',
     pasteImageLink: '画像リンクを貼り付ける',
     pasteImageLinkInputPlaceholder: 'ここに画像リンクを貼り付けてください',
     pasteImageLinkInvalid: '無効な画像リンク',
-    imageUpload: '画像アップロード',
+    imageUpload: 'ファイルアップロード',
   },
   tag: {
     placeholder: 'すべてのタグ',

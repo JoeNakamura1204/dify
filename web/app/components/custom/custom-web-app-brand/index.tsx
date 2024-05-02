@@ -17,7 +17,7 @@ import {
 } from '@/service/common'
 import { useAppContext } from '@/context/app-context'
 
-const ALLOW_FILE_EXTENSIONS = ['svg', 'png']
+const ALLOW_FILE_EXTENSIONS = ['svg', 'png', 'pdf']
 
 const CustomWebAppBrand = () => {
   const { t } = useTranslation()
