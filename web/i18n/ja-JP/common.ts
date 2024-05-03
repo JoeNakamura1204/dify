@@ -458,7 +458,7 @@ const translation = {
     pasteImageLink: '画像リンクを貼り付ける',
     pasteImageLinkInputPlaceholder: 'ここに画像リンクを貼り付けてください',
     pasteImageLinkInvalid: '無効な画像リンク',
-    imageUpload: 'ファイルアップロード',
+    imageUpload: 'ファイルアップロードs',
   },
   tag: {
     placeholder: 'すべてのタグ',
