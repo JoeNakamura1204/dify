@@ -24,7 +24,7 @@ const translation = {
   roadmap: 'ロードマップを見る',
   newApp: {
     startFromBlank: 'から作成',
-    startFromTemplate: 'テンプレートから作成',
+    startFromTemplate: 'テンプレートから作成ちゃんちゃら',
     captionAppType: 'どのタイプのアプリを作成しますか？',
     chatbotDescription: 'チャット形式のアプリケーションを構築します。このアプリは質問と回答の形式を使用し、複数のラウンドの継続的な会話を可能にします。',
     completionDescription: 'プロンプトに基づいて高品質のテキストを生成するアプリケーションを構築します。記事、要約、翻訳などを生成します。',
